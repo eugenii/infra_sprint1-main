@@ -1,2 +1,1 @@
-# infra_sprint1-main
-from friends - task
+# infra_sprint1
